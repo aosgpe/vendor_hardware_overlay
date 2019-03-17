@@ -1,7 +1,6 @@
 PRODUCT_PACKAGES += \
 	HardwareOverlayPicker \
 	QtiAudio \
-	TrebleApp \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
 	treble-overlay-SystemUI-FalseLocks \
@@ -9,6 +8,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-asus-zenfone5 \
 	treble-overlay-asus-zenfone5z \
 	treble-overlay-asus-zenfonelivel1za550kl \
+	treble-overlay-blloc-zero18 \
 	treble-overlay-caf-ims \
 	treble-overlay-devinputjack \
 	treble-overlay-htc-u12plus \
